@@ -1,0 +1,11 @@
+{
+    "name": "UDEMY__THIRD-PROJECT__PULSE",
+    "technologyStack": ["HTML", "CSS", "SASS", "JS", "NPM", "GULP", "GIT"],
+    "libraries": ["JQUERY", "BOOTSTRAP(BOOTSTRAP-REBOOT.MIN.CSS)"],
+    "methodology": ["BEM"],
+    "accent": ["HTML", "CSS", "JS"],
+    "type": "RESPONSIVE",
+    "linkGit": "https://github.com/Zakharov1984/UDEMY__THIRD-PROJECT__PULSE",
+    "linkSite": "https://martined.ru/UDEMY__THIRD-PROJECT__PULSE/index.html",
+    "linkImg": "img/project/project1.jpg"
+}
