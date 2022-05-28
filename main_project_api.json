@@ -1,11 +1,52 @@
 {
-    "name": "UDEMY__THIRD-PROJECT__PULSE",
-    "technologyStack": ["HTML", "CSS", "SASS", "JS", "NPM", "GULP", "GIT"],
-    "libraries": ["JQUERY", "BOOTSTRAP(BOOTSTRAP-REBOOT.MIN.CSS)"],
-    "methodology": ["BEM"],
-    "accent": ["HTML", "CSS", "JS"],
-    "type": "RESPONSIVE",
-    "linkGit": "https://github.com/Zakharov1984/UDEMY__THIRD-PROJECT__PULSE",
-    "linkSite": "https://martined.ru/UDEMY__THIRD-PROJECT__PULSE/index.html",
-    "linkImg": "img/project/project1.jpg"
+    "udemy": [
+        {
+            "name": "UDEMY__THIRD-PROJECT__PULSE",
+            "technologyStack": ["HTML", "CSS", "SASS", "JS", "NPM", "GULP", "GIT"],
+            "libraries": ["JQUERY", "BOOTSTRAP(BOOTSTRAP-REBOOT.MIN.CSS)"],
+            "methodology": ["BEM"],
+            "accent": ["HTML", "CSS", "JS"],
+            "type": "RESPONSIVE",
+            "linkGit": "https://github.com/Zakharov1984/UDEMY__THIRD-PROJECT__PULSE",
+            "linkSite": "https://martined.ru/UDEMY__THIRD-PROJECT__PULSE/index.html",
+            "linkImg": "img/project/project1.jpg"
+        },
+        {
+            "name": "MAIN_PROJECT",
+            "technologyStack": ["HTML", "CSS", "SCSS", "JS", "NPM", "GULP", "GIT"],
+            "libraries": ["BOOTSTRAP(BOOTSTRAP-REBOOT.MIN.SCSS)"],
+            "methodology": ["BEM"],
+            "accent": ["HTML", "CSS", "JS"],
+            "type": "RESPONSIVE",
+            "linkGit": "https://github.com/Zakharov1984/MAIN_PROJECT",
+            "linkImg": "img/project/main.jpg"
+        },
+        {
+            "name": "UDEMY__SECOND-PROJECT__UBER",
+            "technologyStack": ["HTML", "CSS", "SASS", "JS", "GIT"],
+            "libraries": ["BOOTSTRAP(BOOTSTRAP-RESET, BOOTSTRAP-GREED)"],
+            "methodology": ["-"],
+            "accent": ["HTML", "CSS"],
+            "type": "RESPONSIVE",
+            "linkGit": "https://github.com/Zakharov1984/UDEMY__SECOND-PROJECT__UBER",
+            "linkSite": "UDEMY__SECOND-PROJECT__UBER/index.html",
+            "linkImg": "img/project/uber.jpg"
+        },
+        {
+            "name": "UDEMY__FIRST-PROJECT__WORDPRESS",
+            "technologyStack": ["HTML", "CSS", "GIT"],
+            "libraries": ["NORMALIZE.MIN.CSS"],
+            "methodology": "-",
+            "accent": ["HTML", "CSS"],
+            "type": "STATIC",
+            "linkGit": "https://github.com/Zakharov1984/UDEMY__FIRST-PROJECT__WORDPRESS",
+            "linkSite": "UDEMY__FIRST-PROJECT__WORDPRESS/index.html",
+            "linkImg": "img/project/wordpress.jpg"
+        }
+
+    ]
 }
+
+
+
+
